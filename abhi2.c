@@ -21,4 +21,4 @@ void main()
     s1[i]='\0';
     printf("\n Reverse of string is %s",s1);
     getch();
-}
+}        1 file(s) copied.
